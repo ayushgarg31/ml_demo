@@ -3,7 +3,6 @@ ipywidgets
 nbinteract
 matplotlib
 opencv-python
-time
 scipy
 requests
 io
