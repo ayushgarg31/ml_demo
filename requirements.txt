@@ -1,3 +1,16 @@
 numpy
 ipywidgets
 nbinteract
+matplotlib
+opencv-python
+imageio
+itertools
+pandas
+time
+scipy
+requests
+io
+PIL
+IPython
+warnings
+skimage
