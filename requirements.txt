@@ -4,6 +4,6 @@ nbinteract
 matplotlib
 opencv-python
 scipy
-PIL
+Pillow
 IPython
 skimage
