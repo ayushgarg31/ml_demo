@@ -3,7 +3,6 @@ ipywidgets
 nbinteract
 matplotlib
 opencv-python
-itertools
 pandas
 time
 scipy
