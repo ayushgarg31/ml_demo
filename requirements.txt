@@ -3,12 +3,10 @@ ipywidgets
 nbinteract
 matplotlib
 opencv-python
-pandas
 time
 scipy
 requests
 io
 PIL
 IPython
-warnings
 skimage
